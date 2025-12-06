@@ -1,1 +1,7 @@
 this new file addded to folder three 
+
+add another file to folder and commit it .
+
+add another file to folder and commit it.
+add another file to folder and commit it.
+
